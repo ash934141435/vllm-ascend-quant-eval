@@ -1,0 +1,3 @@
+requests>=2.31
+datasets>=2.18
+evalscope==1.14.0
