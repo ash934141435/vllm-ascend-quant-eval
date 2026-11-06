@@ -142,3 +142,7 @@ docs/results.md           逐轮完整结果表
 - LiveCodeBench **只有一轮**，这也是它的 p 值只能算「提示」而非「结论」的原因。
 - 不回答「W8A8 比 BF16 快多少」——那是另一个仓库的事：
   [vllm-ascend-performance-lab](https://github.com/ash934141435/vllm-ascend-performance-lab)。
+
+## 免责声明
+
+本实验为个人研究项目，不包含任何客户数据或公司内部资产；所用模型、数据集与基准均为公开资源。结论仅反映上述特定版本、镜像与硬件组合下的测量结果，不代表任何厂商的官方立场。
